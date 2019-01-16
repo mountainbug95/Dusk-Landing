@@ -1,0 +1,32 @@
+///
+/// Zenith by easygapps
+/// easygapps.com | hello@easygapps.com
+/// License: easygapps.com/license
+///
+
+/* Inner */
+
+	.inner {
+		margin: 0 auto;
+		max-width: calc(100% - 10rem);
+		width: _size(inner-width);
+
+		&.with-sidebar {
+			@include vendor('display','flex');
+			@include vendor('justify-content', 'space-between');
+		}
+
+		@include breakpoint('<=large') {
+			max-width: calc(100% - 6rem);
+		}
+
+		@include breakpoint('<=medium') {
+			&.with-sidebar {
+				display: block;
+			}
+		}
+
+		@include breakpoint('<=small') {
+			max-width: calc(100% - 3rem);
+		}
+	}

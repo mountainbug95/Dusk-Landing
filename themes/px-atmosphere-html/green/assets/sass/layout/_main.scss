@@ -1,0 +1,15 @@
+///
+/// Atmosphere by easygapps
+/// easygapps.com | hello@easygapps.com
+/// License: easygapps.com/license
+///
+
+/* Main */
+
+	#main {
+		padding: 10em 0 4em;
+
+		@include breakpoint('<=small') {
+			padding: 5em 0 2em;
+		}
+	}

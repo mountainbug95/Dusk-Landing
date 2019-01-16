@@ -1,0 +1,17 @@
+///
+/// Ethereal by easygapps
+/// easygapps.com | hello@easygapps.com
+/// License: easygapps.com/license
+///
+
+/* Icon */
+
+	.icon {
+		@include icon;
+		position: relative;
+		border-bottom: none;
+
+		> .label {
+			display: none;
+		}
+	}

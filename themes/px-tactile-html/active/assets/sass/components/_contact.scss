@@ -1,0 +1,26 @@
+///
+/// Tactile by easygapps
+/// easygapps.com | hello@easygapps.com
+/// License: easygapps.com/license
+///
+
+/* Contact */
+
+	ul.contact {
+		list-style: none;
+		padding: 0;
+
+		li {
+			@include icon;
+			padding: 0.65em 0 0 2em;
+
+			&:before {
+				float: left;
+				margin-left: -2em;
+			}
+
+			&:first-child {
+				padding-top: 0;
+			}
+		}
+	}

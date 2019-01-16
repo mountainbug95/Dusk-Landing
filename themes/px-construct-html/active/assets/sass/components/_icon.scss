@@ -1,0 +1,16 @@
+///
+/// Construct by easygapps
+/// easygapps.com | hello@easygapps.com
+/// License: easygapps.com/license
+///
+
+/* Icon */
+
+	.icon {
+		@include icon;
+		position: relative;
+
+		> .label {
+			display: none;
+		}
+	}

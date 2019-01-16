@@ -1,0 +1,21 @@
+/*
+	Ethereal by easygapps
+	easygapps.com | hello@easygapps.com
+	License: easygapps.com/license
+*/
+
+/* Page */
+
+	body {
+		overflow-x: scroll;
+	}
+
+/* Wrapper */
+
+	body.is-preload #wrapper {
+		-moz-transform: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+		opacity: 1;
+	}

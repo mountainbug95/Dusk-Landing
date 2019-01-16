@@ -1,0 +1,21 @@
+/*
+	Identity by easygapps
+	easygapps.com | hello@easygapps.com
+	License: easygapps.com/license
+*/
+
+/* Basic */
+
+	body:after {
+		display: none;
+	}
+
+/* Main */
+
+	#main {
+		-moz-transform: none !important;
+		-webkit-transform: none !important;
+		-ms-transform: none !important;
+		transform: none !important;
+		opacity: 1 !important;
+	}

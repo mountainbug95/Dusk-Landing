@@ -1,0 +1,16 @@
+/*
+	Parallelism by easygapps
+	easygapps.com | hello@easygapps.com
+	License: easygapps.com/license
+*/
+
+/* Main */
+
+	#main {
+		opacity: 1 !important;
+		overflow-x: auto !important;
+	}
+
+		#main .item.thumb img {
+			opacity: 1 !important;
+		}

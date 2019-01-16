@@ -1,0 +1,17 @@
+///
+/// Fractal by easygapps
+/// easygapps.com | hello@easygapps.com
+/// License: easygapps.com/license
+///
+
+/* Main */
+
+	#main {
+		@include padding(4em, 0);
+
+		// Small.
+			@include breakpoint('<=small') {
+				@include padding(3em, 0);
+			}
+
+	}

@@ -1,0 +1,18 @@
+///
+/// Editorial by easygapps
+/// easygapps.com | hello@easygapps.com
+/// License: easygapps.com/license
+///
+
+/* Footer */
+
+	#footer {
+		.copyright {
+			color: _palette(fg-light);
+			font-size: 0.9em;
+
+			a {
+				color: inherit;
+			}
+		}
+	}
