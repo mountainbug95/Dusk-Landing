@@ -1,7 +1,7 @@
 /*
-	Tessellate by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
+	Tessellate by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
 */
 
 (function($) {

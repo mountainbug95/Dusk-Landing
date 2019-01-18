@@ -1,7 +1,7 @@
 /*
-	Highlights by easygapps
-	easygapps.com | hello@easygapps.com
-	License: easygapps.com/license
+	Highlights by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
 */
 
 (function($) {

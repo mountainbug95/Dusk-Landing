@@ -1,7 +1,7 @@
 /*
-	Inverse by easygapps
-	easygapps.com | hello@easygapps.com
-	License: easygapps.com/license
+	Inverse by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
 */
 
 (function($) {

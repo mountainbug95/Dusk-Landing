@@ -1,6 +1,6 @@
-Ethereal by easygapps
-easygapps.com | hello@easygapps.com
-License: easygapps.com/license
+Ethereal by untitled
+untitled.com | hello@untitled.com
+License: untitled.com/license
 
 
 Overview

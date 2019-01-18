@@ -1,7 +1,7 @@
 /*
-	Drift by easygapps
-	easygapps.com | hello@easygapps.com
-	License: easygapps.com/license
+	Drift by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
 */
 
 (function($) {

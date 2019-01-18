@@ -1,7 +1,7 @@
 /*
-	Threshold by easygapps
-	easygapps.com | hello@easygapps.com
-	License: easygapps.com/license
+	Threshold by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
 */
 
 (function($) {

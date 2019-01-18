@@ -1,6 +1,6 @@
-Lens by Pixelarity
-pixelarity.com | hello@pixelarity
-License: pixelarity.com/license
+Lens by untitled
+untitled.com | hello@untitled
+License: untitled.com/license
 
 
 Instructions:

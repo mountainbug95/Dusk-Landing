@@ -1,7 +1,7 @@
 /*
-	Scalar by easygapps
-	easygapps.com | hello@easygapps.com
-	License: easygapps.com/license
+	Scalar by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
 */
 
 (function($) {

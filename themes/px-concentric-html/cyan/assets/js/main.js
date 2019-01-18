@@ -1,7 +1,7 @@
 /*
-	Concentric by easygapps
-	easygapps.com | hello@easygapps.com
-	License: easygapps.com/license
+	Concentric by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
 */
 
 (function($) {

@@ -1,7 +1,7 @@
 /*
-	Slate by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
+	Slate by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
 */
 
 

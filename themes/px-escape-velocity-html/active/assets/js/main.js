@@ -1,7 +1,7 @@
 /*
-	Escape Velocity by easygapps
-	easygapps.com | hello@easygapps.com
-	License: easygapps.com/license
+	Escape Velocity by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
 */
 
 (function($) {
