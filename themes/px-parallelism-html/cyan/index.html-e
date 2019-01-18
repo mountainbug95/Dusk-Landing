@@ -1,0 +1,122 @@
+<!DOCTYPE HTML>
+<!--
+	Parallelism by untitled
+	untitled.com | hello@untitled.com
+	License: untitled.com/license
+-->
+<html>
+	<head>
+		<title>Untitled</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main">
+
+						<!-- Items -->
+							<div class="items">
+
+								<div class="item intro span-2">
+									<h1>Parallelism</h1>
+									<p>A adipiscing convallis cras<br />
+									accumsan ut Parturient</p>
+								</div>
+
+								<article class="item thumb span-1">
+									<h2>Mus luctus sed ut</h2>
+									<a href="https://unsplash.it/" alt=""></a>
+								</article>
+
+								<article class="item thumb span-2">
+									<h2>At Curabitur</h2>
+									<a href="https://unsplash.it/" alt=""></a>
+								</article>
+
+								<article class="item thumb span-1">
+									<h2>Adipiscing.</h2>
+									<a href="https://unsplash.it/" alt=""></a>
+								</article>
+
+								<article class="item thumb span-1">
+									<h2>Aliquet</h2>
+									<a href="https://unsplash.it/" alt=""></a>
+								</article>
+
+								<article class="item thumb span-3">
+									<h2>Cubilia mi ata Nibh</h2>
+									<a href="https://unsplash.it/" alt=""></a>
+								</article>
+
+								<article class="item thumb span-1">
+									<h2>Sed Aliquet</h2>
+									<a href="https://unsplash.it/" alt=""></a>
+								</article>
+
+								<article class="item thumb span-2">
+									<h2>Curabitur</h2>
+									<a href="https://unsplash.it/" alt=""></a>
+								</article>
+
+								<article class="item thumb span-2">
+									<h2>Col Adipiscing</h2>
+									<a href="images/fulls/08.jpg" class="image"><img src="images/thumbs/08.jpg" alt=""></a>
+								</article>
+
+							</div>
+
+						<!-- Items -->
+							<div class="items">
+
+								<article class="item thumb span-3"><h2>Cubilia mi ata Nibh</h2><a href="https://unsplash.it/" alt=""></a></article>
+								<article class="item thumb span-1"><h2>Sed Aliquet</h2><a href="https://unsplash.it/" alt=""></a></article>
+								<article class="item thumb span-2"><h2>Curabitur</h2><a href="https://unsplash.it/" alt=""></a></article>
+								<article class="item thumb span-2"><h2>Col Adipiscing</h2><a href="images/fulls/08.jpg" class="image"><img src="images/thumbs/08.jpg" alt=""></a></article>
+								<article class="item thumb span-1"><h2>Mus luctus sed ut</h2><a href="https://unsplash.it/" alt=""></a></article>
+								<article class="item thumb span-2"><h2>At Curabitur</h2><a href="https://unsplash.it/" alt=""></a></article>
+								<article class="item thumb span-1"><h2>Adipiscing.</h2><a href="https://unsplash.it/" alt=""></a></article>
+								<article class="item thumb span-2"><h2>Cubilia mi ata Nibh</h2><a href="https://unsplash.it/" alt=""></a></article>
+								<article class="item thumb span-1"><h2>Aliquet</h2><a href="https://unsplash.it/" alt=""></a></article>
+
+							</div>
+
+					</section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<section>
+							<p>Arcu ut Pellentesque, mus adipiscing curabitur elit accumsan in Condimentum. Nibh col faucibus
+							sit adipiscing cep fusce dis Accumsan Aliquet Consectetur placerat.</p>
+						</section>
+						<section>
+							<ul class="icons">
+								<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+								<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li>
+							</ul>
+						</section>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
